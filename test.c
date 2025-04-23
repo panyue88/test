@@ -3,4 +3,5 @@
 int main()
 {
     printf("fuck you");
+    printf("fuck you too");
 }
